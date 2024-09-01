@@ -26,7 +26,7 @@ sections:
 
     spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ["0px", "0", "0px", "0"]
+      padding: ["30px", "0", "0px", "0"]
 
   - block: markdown
     content:
@@ -46,6 +46,6 @@ sections:
     design:
       columns: '2'
       spacing:
-        padding: ['0px', '0', '0px', '0']
+        padding: ['40px', '0', '20px', '0']
       css_class: fullscreen
 ---
