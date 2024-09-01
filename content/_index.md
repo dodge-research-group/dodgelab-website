@@ -21,10 +21,12 @@ sections:
           position: center
           parallax: true
           text_color_light: true
+          alt_text: "Caustic network of spectral colors, part of Bob Miller's Sun Painting
+          at The Exploratorium"
 
     spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ["30px", "0", "0px", "0"]
+      padding: ["0px", "0", "0px", "0"]
 
   - block: markdown
     content:
@@ -44,6 +46,6 @@ sections:
     design:
       columns: '2'
       spacing:
-        padding: ['40px', '0', '20px', '0']
+        padding: ['0px', '0', '0px', '0']
       css_class: fullscreen
 ---
