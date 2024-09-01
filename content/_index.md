@@ -30,14 +30,13 @@ sections:
       title: "About us"
       subtitle: ''
       text: "The Dodge Laboratory at Simon Fraser University examines the emergent quantum properties of materials using femtosecond pulses of light.
-* We employ **optical spectroscopy** to understand the physics of solids.
-* We focus on **quantum materials** such as superconductors, magnetic materials, and topological electronic materials.
-* We are **experimentalists** with specialties in pulsed laser techniques such as terahertz time-domain spectroscopy and  pump-probe spectroscopy."
+              * We employ **optical spectroscopy** to understand the physics of solids.
+              * We focus on **quantum materials** such as superconductors, magnetic materials, and topological electronic materials.
+              * We are **experimentalists** with specialties in pulsed laser techniques such as terahertz time-domain spectroscopy and  pump-probe spectroscopy."
 
     design:
       columns: '2'
       spacing:
         padding: ['40px', '0', '20px', '0']
       css_class: fullscreen
-
 ---
