@@ -18,12 +18,14 @@ sections:
       padding: ["30px", "0", "0px", "0"]
 
     background:
-      image: NarrowCrop_SunPainting_DSC_1496_AS.jpg
-      image_darken: 0.5
-      image_parallax: true
-      image_position: center
-      image_size: cover
-      text_color_light: true
+      image: 
+        filename: NarrowCrop_SunPainting_DSC_1496_AS.jpg
+        filters:
+          brightness: 0.5
+        parallax: true
+        position: center
+        size: cover
+        text_color_light: true
 
   - block: markdown
     content:
