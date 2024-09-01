@@ -12,20 +12,19 @@ sections:
 
     design:
       columns: '1'
+      background:
+        image: 
+          filename: NarrowCrop_SunPainting_DSC_1496_AS.jpg
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
 
     spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
       padding: ["30px", "0", "0px", "0"]
-
-    background:
-      image: 
-        filename: NarrowCrop_SunPainting_DSC_1496_AS.jpg
-        filters:
-          brightness: 0.5
-        parallax: true
-        position: center
-        size: cover
-        text_color_light: true
 
   - block: markdown
     content:
