@@ -25,51 +25,19 @@ sections:
       image_size: cover
       text_color_light: true
 
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
   - block: markdown
     content:
-      title:
+      title: "About us"
       subtitle: ''
-      text:
+      text: "The Dodge Laboratory at Simon Fraser University examines the emergent quantum properties of materials using femtosecond pulses of light.
+* We employ **optical spectroscopy** to understand the physics of solids.
+* We focus on **quantum materials** such as superconductors, magnetic materials, and topological electronic materials.
+* We are **experimentalists** with specialties in pulsed laser techniques such as terahertz time-domain spectroscopy and  pump-probe spectroscopy."
+
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+      columns: '2'
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['40px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
