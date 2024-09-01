@@ -1,22 +1,30 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-09-01
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+      title: "The Dodge Lab @ SFU"
+      subtitle: "Time-Resolved Optical Spectroscopy of Quantum Materials"
+
+    design:
+      columns: '1'
+
+    spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+      padding: ["30px", "0", "0px", "0"]
+
+    background:
+      image: NarrowCrop_SunPainting_DSC_1496_AS.jpg
+      image_darken: 0.5
+      image_parallax: true
+      image_position: center
+      image_size: cover
+      text_color_light: true
+
   - block: collection
     content:
       title: Latest News
@@ -55,19 +63,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: markdown
     content:
