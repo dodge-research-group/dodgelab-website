@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: GroupPhoto.jpg
+    image: GroupPhoto-2024.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -30,5 +30,5 @@ advanced:
   css_class: fullscreen
 ---
 <!--
-Group photo, 2022. From left: Leya Lopez, Jonathan Posada, JSD, Santiago Quintero
+Group photo, 2024. From left: Rabin M, Alan Chan, Chloe Chan, Ewan Thomas, Augusten Fairbairn, Alireza Noori, JSD. 
 -->
