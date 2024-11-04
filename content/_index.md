@@ -30,7 +30,7 @@ sections:
 
   - block: markdown
     content:
-      title: "About us"
+      title: false
       subtitle: ''
       text: "The Dodge Laboratory at Simon Fraser University examines the emergent quantum
       properties of materials using femtosecond pulses of light.
