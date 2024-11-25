@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Research
 
 # Listing view
 view: compact
