@@ -38,6 +38,5 @@ publication_types:
 - '2'
 abstract: 'We present a maximum-likelihood method for parameter estimation in terahertz time-domain spectroscopy. We derive the likelihood function for a parameterized frequency response function, given a pair of time-domain waveforms with known time-dependent noise amplitudes. The method provides parameter estimates that are superior to other commonly used methods and provides a reliable measure of the goodness of fit. We also develop a simple noise model that is parameterized by three dominant sources and derive the likelihood function for their amplitudes in terms of a set of repeated waveform measurements. We demonstrate the method with applications to material characterization.'
 publication: '*Optics Express*'
-doi: 10.1364/OE.417724 
-url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-4-4912&id=447079
+doi: 10.1364/OE.417724
 ---
