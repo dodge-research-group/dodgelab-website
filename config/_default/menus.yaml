@@ -11,7 +11,7 @@ main:
     url: publication
     weight: 20
   - name: Research
-    url: post
+    url: research
     weight: 30
   - name: Contact
     url: contact
