@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-03-05T23:03:36.034323Z'
-publication_types:
-- '8'
+publication_types: ["patent"]
 abstract: ''
 publication: 'US Patent'
 

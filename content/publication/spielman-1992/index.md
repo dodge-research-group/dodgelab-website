@@ -34,8 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-03-05T23:29:02.803621Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.68.3472

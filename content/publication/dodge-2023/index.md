@@ -30,9 +30,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-03-03'
-publication_types:
-- '2'
-abstract: 'We discuss a systematic error in time-resolved optical conductivity measurements that becomes important at high pump intensities. We show that common optical nonlinearities can distort the photoconductivity depth profile, and by extension distort the photoconductivity spectrum. We show evidence that this distortion is present in existing measurements on K$_3$C$_{60}$, and describe how it may create the appearance of photoinduced superconductivity where none exists. Similar errors may emerge in other pump-probe spectroscopy measurements, and we discuss how to correct for them.'
+publication_types: ["article-journal"]
+abstract: 'We discuss a systematic error in time-resolved optical conductivity measurements that becomes important at high pump intensities. We show that common optical nonlinearities can distort the photoconductivity depth profile, and by extension distort the photoconductivity spectrum. We show evidence that this distortion is present in existing measurements on K<sub>3</sub>C<sub>60</sub>, and describe how it may create the appearance of photoinduced superconductivity where none exists. Similar errors may emerge in other pump-probe spectroscopy measurements, and we discuss how to correct for them.'
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.130.146002
 ---
