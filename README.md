@@ -2,6 +2,10 @@
 
 This website is based on the [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group). See below for details on how to make changes.
 
+## Useful links
+
+Hugo Blox [templates](https://hugoblox.com/templates/) come in two types of content blocks, those that use [Tailwind](https://hugoblox.com/blocks/) CSS and those that use [Bootstrap](https://bootstrap.hugoblox.com/blocks/). The Hugo Research Group Theme is a Bootstrap template. The Hugo Blox maintainer, George Cushen, [indicated](https://discord.com/channels/722225264733716590/1262792177923391589/1263580594952999084) on the Discord server that some users have adapted the Tailwind-based [Academic CV](https://hugoblox.com/templates/details/academic-cv/) template for use with a research group or university.
+
 ## Hugo Blox documentation links
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)

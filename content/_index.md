@@ -44,8 +44,20 @@ sections:
               such as terahertz time-domain spectroscopy and  pump-probe spectroscopy."
 
     design:
+      view: compact
       columns: '2'
       spacing:
         padding: ['40px', '0', '20px', '0']
-      css_class: fullscreen
+
+  - block: markdown
+    content:
+      title: false
+      subtitle: ''
+      text: "<p style='font-size:0.667em;text-align: center;'> Header image: <a href='https://www.exploratorium.edu/exhibits/sun-painting'><i>Sun Painting</i></a>, by Bob Miller, © The Exploratorium, <a href='url'>www.exploratorium.edu</a></p>"
+
+    design:
+      view: compact
+      columns: '1'
+      spacing:
+        padding: ['0px', '0', '0px', '0']
 ---
