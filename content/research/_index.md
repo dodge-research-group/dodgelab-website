@@ -28,8 +28,8 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+      sort_by: 'Title'
+      sort_ascending: true
     design:
       # Choose a listing view
       view: card
