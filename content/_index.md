@@ -12,6 +12,9 @@ sections:
 
     design:
       columns: '1'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["30px", "0", "0px", "0"]
       background:
         image: 
           filename: NarrowCrop_SunPainting_DSC_1496_AS.jpg
@@ -23,10 +26,6 @@ sections:
           text_color_light: true
           alt_text: "Caustic network of spectral colors, part of Bob Miller's Sun Painting
           at The Exploratorium"
-
-    spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ["0px", "0", "0px", "0"]
 
   - block: markdown
     content:
@@ -53,7 +52,9 @@ sections:
     content:
       title: false
       subtitle: ''
-      text: "<p style='font-size:0.667em;text-align: center;'> Header image: <a href='https://www.exploratorium.edu/exhibits/sun-painting'><i>Sun Painting</i></a>, by Bob Miller, © The Exploratorium, <a href='url'>www.exploratorium.edu</a></p>"
+      text: "<p style='font-size:0.667em;text-align: center;'> Header image: 
+      <a href='https://www.exploratorium.edu/exhibits/sun-painting'><i>Sun Painting</i></a>, 
+      by Bob Miller, © The Exploratorium, <a href='url'>www.exploratorium.edu</a></p>"
 
     design:
       view: compact
