@@ -6,6 +6,36 @@ This website is based on the [Hugo Research Group Theme](https://github.com/wowc
 
 Hugo Blox [templates](https://hugoblox.com/templates/) come in two types of content blocks, those that use [Tailwind](https://hugoblox.com/blocks/) CSS and those that use [Bootstrap](https://bootstrap.hugoblox.com/blocks/). The Hugo Research Group Theme is a Bootstrap template. The Hugo Blox maintainer, George Cushen, [indicated](https://discord.com/channels/722225264733716590/1262792177923391589/1263580594952999084) on the Discord server that some users have adapted the Tailwind-based [Academic CV](https://hugoblox.com/templates/details/academic-cv/) template for use with a research group or university.
 
+## Publications
+
+The Hugo Blox documentation has [instructions](https://docs.hugoblox.com/reference/content-types/#publications) on how
+to add publications automatically, but our current preferred method is just to duplicate the directory of an existing
+publication and modify the contents accordingly. The directory name should be in the format `last_name-YYYY`, where
+`last_name` is the last name of the first author, written all in lower case. Each directory requires an `index.md` file that includes the article title, authors, publication type, publication title, DOI, etc. The `publication-type` field
+will typically be either `article-journal` for a published article or `article` for an arXiv preprint. A full list of CSL (citation style language) publication types are available
+[here](https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types).
+The directory should also include a `cite.bib` file with citation information in BibTeX format, which is usually available
+at the journal website. Hugo Blox will link the article title to a separate summary page that can include additional
+images and summary information, as described in the
+[documentation](https://docs.hugoblox.com/reference/content-types/#enhancing-publications).
+
+### Article PDFs
+
+Check the journal reuse policy before including the PDF of a journal article on the group website. You can always post
+the PDF of a preprint that appears on the arXiv, but many journals prohibit authors from posting the version that has
+been formatted by the journal. Some journals even prohibit publishing any version that has been revised in response to
+their peer review process.
+
+#### Journals that allow authors to post as-published articles (version of record)
+
+- [Optics Express](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/#posting)
+- [Physical Review](https://journals.aps.org/copyrightFAQ.html#post)
+
+#### Journals that do not allow authors to post as-published articles
+
+- [Applied Optics](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/#posting)
+- [Applied Physics Letters](https://publishing.aip.org/resources/researchers/rights-and-permissions/permissions/)
+
 ## Hugo Blox documentation links
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
