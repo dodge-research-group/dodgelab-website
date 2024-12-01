@@ -26,15 +26,22 @@ the PDF of a preprint that appears on the arXiv, but many journals prohibit auth
 been formatted by the journal. Some journals even prohibit publishing any version that has been revised in response to
 their peer review process.
 
-#### Journals that allow authors to post as-published articles (version of record)
+#### Journals policies
 
-- [Optics Express](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/#posting)
+- [AIP journals](https://publishing.aip.org/resources/researchers/rights-and-permissions/sharing-content-online/)
+  - Includes *Applied Physics Letters* and *Journal of Applied Physics*
+  - May post the accepted manuscript immediately after acceptance, using the credit line formatting below
+  - May post the Version of Record (VOR) 12 months after publication, with the credit line and a link to the VOR on AIP Publishing’s site
+  - After publication please use: “This article may be downloaded for personal use only. Any other use requires prior permission of the author and AIP Publishing. This article appeared in (citation of published article) and may be found at (URL/link for published article abstract).
+  - Prior to publication please use: “The following article has been submitted to/accepted by [Name of Journal]. After it is published, it will be found at Link.”
+- [Optica journals](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/#posting)
+  - *Optics Express*: Open access; version of record
+  - *Applied Optics*: Transfer of copyright; accepted version
+- [Nature journals](https://www.nature.com/nature-portfolio/editorial-policies/self-archiving-and-license-to-publish)
+  - Preprints allowed
+  - Accepted version after 6 months
 - [Physical Review](https://journals.aps.org/copyrightFAQ.html#post)
-
-#### Journals that do not allow authors to post as-published articles
-
-- [Applied Optics](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/#posting)
-- [Applied Physics Letters](https://publishing.aip.org/resources/researchers/rights-and-permissions/permissions/)
+  - Version of record
 
 ## Hugo Blox documentation links
 

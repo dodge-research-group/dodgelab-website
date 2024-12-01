@@ -35,4 +35,5 @@ publishDate: '2021-03-05T23:28:59.040944Z'
 publication_types: ["article-journal"]
 abstract: ''
 publication: '*Applied Physics Letters*'
+doi: 10.1063/1.2192625
 ---

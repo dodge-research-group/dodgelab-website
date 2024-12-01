@@ -41,5 +41,5 @@ publication: 'US Patent'
 
 links:
 - name: USPTO
-  url: http://patft1.uspto.gov/netacgi/nph-Parser?patentnumber=8378304
+  url: https://globaldossier.uspto.gov/result/patent/US/8378304/125172
 ---
