@@ -27,8 +27,8 @@ content:
   coordinates:
     latitude: '49.2774'
     longitude: '-122.9163'
-  directions: "Lab P8450<br>
-  Office P8458<br>
+  directions: "<a href=\"https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SCPP8450\">Lab P8450</a><br>
+  <a href=\"https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SCPP8458\">Office P8458</a><br>
   South corridor of the Shrum Science Centre, near the main SFU Physics Office.
   "
   office_hours:
