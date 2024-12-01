@@ -34,12 +34,14 @@ their peer review process.
   - May post the Version of Record (VOR) 12 months after publication, with the credit line and a link to the VOR on AIP Publishing’s site
   - After publication please use: “This article may be downloaded for personal use only. Any other use requires prior permission of the author and AIP Publishing. This article appeared in (citation of published article) and may be found at (URL/link for published article abstract).
   - Prior to publication please use: “The following article has been submitted to/accepted by [Name of Journal]. After it is published, it will be found at Link.”
-- [Optica journals](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/#posting)
-  - *Optics Express*: Open access; version of record
-  - *Applied Optics*: Transfer of copyright; accepted version
+- [Institute of Physics journals](https://publishingsupport.iopscience.iop.org/reusing-iop-published-content/)
+  - *Journal of Physics: Condensed Matter*: Accepted version
 - [Nature journals](https://www.nature.com/nature-portfolio/editorial-policies/self-archiving-and-license-to-publish)
   - Preprints allowed
   - Accepted version after 6 months
+- [Optica journals](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/#posting)
+  - *Optics Express*: Open access; version of record
+  - *Applied Optics*: Transfer of copyright; accepted version
 - [Physical Review](https://journals.aps.org/copyrightFAQ.html#post)
   - Version of record
 
