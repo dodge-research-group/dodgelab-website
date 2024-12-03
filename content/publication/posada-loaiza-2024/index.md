@@ -37,6 +37,6 @@ publishDate: '2021-03-05T23:29:02.065500Z'
 publication_types: ["article-journal"]
 abstract: ''
 publication: '*Journal of Open Source Software*'
-doi: 10.5281/zenodo.10100093
+doi: 10.21105/joss.07542
 url_code: https://github.com/dodge-research-group/thztools
 ---
