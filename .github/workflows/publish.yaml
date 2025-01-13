@@ -65,7 +65,10 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    # Use ubuntu-latest for GitHub.com
+#    runs-on: ubuntu-latest
+    # Use self-hosted for GitHub.sfu.ca
+    runs-on: self-hosted
     needs: build
     steps:
       - name: Deploy to GitHub Pages
