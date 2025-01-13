@@ -24,7 +24,10 @@ jobs:
   # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
-    runs-on: ubuntu-latest
+    # Use ubuntu-latest for GitHub.com
+#    runs-on: ubuntu-latest
+    # Use self-hosted for GitHub.sfu.ca
+    runs-on: self-hosted
     steps:
       - name: Checkout
         uses: actions/checkout@v4
