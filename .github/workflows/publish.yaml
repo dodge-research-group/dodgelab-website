@@ -47,7 +47,7 @@ jobs:
             ${{ runner.os }}-hugomod-
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v2
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -55,7 +55,7 @@ jobs:
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
 
