@@ -1,5 +1,5 @@
 ---
-title: "THzTools"
+title: "Statistical data analysis for THz-TDS"
 subtitle: ""
 summary: "Summary"
 authors: []
