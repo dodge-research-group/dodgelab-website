@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.125.7'
+  WC_HUGO_VERSION: '0.135.0'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
@@ -47,7 +47,7 @@ jobs:
             ${{ runner.os }}-hugomod-
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v5
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -55,7 +55,7 @@ jobs:
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
